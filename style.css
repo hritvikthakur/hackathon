@@ -1,0 +1,233 @@
+
+    
+.full-body{
+    background-color: rgb(248, 239, 241);
+    height: 0px;
+    
+}
+.top-navigation-bar{
+    background-color: white;
+    margin: 30px 10px 0px 10px;
+}
+.logo{
+    width: 40px;
+    padding: 10px 0px 10px 10px;
+    
+}
+.top-searchbar{
+    display: flex;
+    justify-content:center;
+    margin: auto;
+    
+}
+.header-endpart{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    margin: auto;
+}
+.top-notification{
+    width: 20px;
+    padding: 5px;
+}
+.top-chat{
+    width: 20px;
+    padding: 5px;
+}
+.abhisek-profile{
+    width: 30px;
+    padding: 5px;
+    border-radius: 50%;
+    
+}
+.usename{
+    padding: 10px;
+}
+
+.mid-section{
+    display:flex;
+    flex-direction:row;
+}
+.whole-left-navigation-bar{
+    display: flex;
+    flex-direction: column;
+}
+.left-navigation-bar{
+    background-color: rgb(36, 28, 28);
+    color: aliceblue;
+    height:1000px;
+    width:200px;
+    margin-left:10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.left-navigation-bar-endpart{
+    display: flex;
+    color: rgb(235, 229, 238);
+   height: 800px;
+   /* background-color: aliceblue; */
+  flex-direction: row;
+  align-items: flex-end;
+  padding-left: 10px;
+}
+.hover-effect:hover{
+    background-color: rgb(211, 67, 91);
+    opacity: 100;
+}
+.header-flexcontainer-images{
+    
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 1600px;
+    height: 250px;
+    justify-content:flex-start;
+    margin:0px;
+    
+}
+.hotel-1{
+    width:400px;
+}
+.hotel-2{
+    width:400px;
+}
+.hotel-3{
+    width:400px;
+}
+/* .hotel-name{
+    background-color: rgb(253, 253, 253);
+} */
+.location-link{
+    margin-left:700px;
+    margin-top: 20px;
+    color: rgb(219, 9, 9);
+}
+.rating-section{
+    display: flex;
+    flex-direction:column;
+    background-color: rgb(251, 41, 76);
+    margin-left: 109px;
+    padding-left: 40px;
+    padding-right: 20px;
+    
+}
+.hotel-rating{
+    
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.vote{
+    
+    margin-top:0px;
+    padding-top: 0px;
+}
+.about-hotel{
+    display:flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    width:500px;
+    height:600px;
+    margin-left: 20px;
+    padding-left: 10px;
+    border: 2px solid peachpuff;
+    
+    
+}
+.flex-container{
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: space-around;
+}
+.recommedation-part{
+    display: flex;
+    height: 50px;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.user1-2-3-4{
+    width:30px;
+    border-radius: 50%;
+}
+.review-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    width: 200px;
+    height: 280px;
+    padding-top:10px ;
+    background-color: aliceblue;
+    padding-left: 30px;
+    margin-left:100px;
+    border: 2px solid peachpuff;
+}
+.user-5{
+    width:40px;
+    border-radius: 50%;
+}
+.review-1-user{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+
+}
+.review-1-user-rating{
+    color:rgb(211, 67, 91)
+}
+.review-2{
+    display:flex;
+    flex-wrap: wrap;flex-direction: column;
+    background-color: aliceblue;
+    width: 200px;
+    height:280px;
+    padding-top:10px ;
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-left: 100px;
+    border: 2px solid peachpuff;
+}
+.user-6{
+    width:40px;
+    border-radius: 50%;
+}
+.review-2-user-rating{
+    color:rgb(211, 67, 91)
+}
+.show-all{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: aliceblue;
+    /* border: 2px solid peachpuff; */
+    
+   
+}
+.next-page{
+  color:rgb(157, 19, 19);
+  margin-left: 100px;
+  padding-left: 30px;
+}
+.good-news{
+    display: flex;
+    height:240px;
+    width:150px;
+    /* background-color: aliceblue; */
+    margin-left: 200px;
+    padding-left: 10px;
+    padding-top: 80px;
+}
+.booking-button{
+    display: flex;
+    flex-direction:row;
+    height: 100px;
+    width:200px;
+    margin-left: 180px;
+    padding-left: 10px;
+    
+}
+.booking-button:hover{
+    background-color: rgb(188, 14, 14);
+}
